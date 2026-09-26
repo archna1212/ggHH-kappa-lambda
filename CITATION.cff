@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "From Production Rate to Reconstructed Kinematics: Tracing Higgs Self-Coupling Information in HH to bbbar gammagamma"
+message: "If you use this repository, please cite the associated manuscript."
+type: software
+authors:
+  - family-names: Gupta
+    given-names: Archana
+license: MIT
+version: 1.0.0

@@ -1,0 +1,6 @@
+MadGraph5_aMC@NLO: 3.6.3
+ROOT: 6.32.24
+Python: 3.10.12
+Pythia8: 8.317
+Delphes: 3.5.1
+HepMC: 2.06.09

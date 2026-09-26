@@ -1,0 +1,17 @@
+*.root
+*.lhe
+*.lhe.gz
+*.hepmc
+*.so
+*.d
+*.pcm
+*.pyc
+__pycache__/
+*.log
+*.aux
+*.out
+*.toc
+*.bbl
+*.blg
+Events/
+paper/main.pdf
